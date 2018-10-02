@@ -1,0 +1,14 @@
+September 25th, 2018:
+  ~GENERAL IDEA~
+  Create a pattern game that fades the pattern into view, than the user has to answer.
+  If they are correct, a colored message should appear. (i.e. green if correct, red if wrong)
+  The submit button should disappear revealing a next button after they are finished.
+
+  ~SPECIFICATIONS~
+  The user must enter their email address if they win. (use plugins to verify the email)
+  There should be an animated celebration page if the user wins.
+  You should also create your own plugin.
+
+  ~REFERENCES~
+  w3Schools - Drag and Drop: https://www.w3schools.com/HTML/tryit.asp?filename=tryhtml5_draganddrop
+  Eric Bidelman - Drag and Drop: https://www.html5rocks.com/en/tutorials/dnd/basics/
